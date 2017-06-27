@@ -71,6 +71,9 @@ null is typeof object which programmer explictily assigns to until there is valu
  
 6. What is NaN in JavaScript? What is the typeof NaN?
 NaN means not a number, primitive type: number.
+ 
 7. You can declare a variable by typing var thing;. What is the value of thing?
+the value of thing has no value assigned and Javascript console will return key word, undefined.
+ 
  
  
