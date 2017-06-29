@@ -74,6 +74,7 @@ function bestDays (arr) {
 bestDays([90, 170, 250, 300, 30, 525, 685, 90]);
 bestDays([17, 11, 60, 25, 150, 75, 31, 120]); // buy day 1 and sell day 4
 
+// this is wrong since you can't sell from past days
 function bestDays(days){
   let daysCopy = days.map((day)=>{
     return day

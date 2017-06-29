@@ -16,5 +16,6 @@ Hint: 3
 - Find buy/sell prices in array of stock values to maximize positive difference
 - Ref: https://discuss.codecademy.com/t/challenge-maximize-stock-trading-profit/86193/77
 
-
-
+# Problem 3: 
+- Count how many vowels are in a string and fill an object with the vowels as the key and the count as the value
+- Ref: https://stackoverflow.com/questions/29763871/javascript-function-to-fill-an-object-with-the-vowels-as-the-keys-and-the-count
