@@ -27,4 +27,28 @@
     !!greeting; // true
     !!nothing; // false
 
-    
+# JS begin
+CMD+L to jump to address bar
+about:blank is good site to start your web browser
+
+#{ Variables and Primitives. }
+https://www.rithmschool.com/courses/javascript/introduction-to-javascript-variables-and-primitives
+
+// declaring variable
+var firstName = "Matt";
+var lastName = "Lane";
+
+// + operator to combine words made up of characters, or strings, together. In JavaScript, when you combine two strings with the + operator, you get a new string which is a combination of the two. You can think of this as adding the strings together; a more formal name for it is concatenation.
+
+var fullName = firstName + " " + lastName;
+
+# Primitive Data Types in JavaScript
+JavaScript has 6 primitive data types, but we'll only talk about 5 of them. Here's what they look like:
+
+ 1) string - var greeting = "hello";
+ 2) number - var favoriteNum = 33;
+ 3) boolean - var isAwesome = true;
+ 4) undefined - var foo; or var setToUndefined = undefined;
+ 5) null - var empty = null;
+
+ JavaScript is known as a "weakly" typed language. What this means is that when you create variables and assign them to values, you do not have to specify the type of data you are working with. In statically (or strongly) typed languages, like Java and C++, you do need to specify the type.
